@@ -7,15 +7,15 @@
 
      ### LA RESOLUCION COMPLETA ESTA EN EL PDF SUBIDO AL MOODLE
 
-(a)	(1 point)  3181  mod 7.
+    (a)	(1 point)  3181  mod 7.
             3^3 ≡ 3 mod 7
-(b)	(1 point)  2245  mod 7.
+    (b)	(1 point)  2245  mod 7.
             2^32 ≡ 4 mod 7
-(c) (1 point)  128129  mod 17.
+    (c) (1 point)  128129  mod 17.
             128^129 ≡ 9 mod 17
-(d) (1 point) ¿Cual es el residuo de dividir 21000 entre 13?
+    (d) (1 point) ¿Cual es el residuo de dividir 21000 entre 13?
             2^1000 ≡ 3 mood 13
-(e) (2 points) (220 + 330 + 440 + 550 + 660) mod 7.
+    (e) (2 points) (220 + 330 + 440 + 550 + 660) mod 7.
             2^20 + 3^30 + 4^40 + 5^50 + 6^60 ≡ 0 mod 7
 
 3.	(3 points) Resolver x103 ≡ 4 (mod 11), para 0 ≤ x < 11.
