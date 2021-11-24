@@ -32,5 +32,9 @@
     ```
     x ≡ 5 mod 11
     ```
-5.	(5 points)  Un googol  es igual a 10100, un nu´mero tan grande que supera el cantidad de ´atomos en el universo (≈ 1080). Ahora, un googolplex es igual a 10googol.  ¿Que d´ıa de la semana ser´ıa un googolplex de d´ıas a partir de ahora? (Hoy es Viernes).
+4.	(5 points)  Un googol  es igual a 10100, un nu´mero tan grande que supera el cantidad de ´atomos en el universo (≈ 1080). Ahora, un googolplex es igual a 10googol.  ¿Que d´ıa de la semana ser´ıa un googolplex de d´ıas a partir de ahora? (Hoy es Viernes).
+    ```
+    Viernes + 4 = Martes
+    ```
+    
 
