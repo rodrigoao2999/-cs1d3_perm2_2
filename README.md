@@ -5,7 +5,7 @@
     
 2.	(6 points)  Resolver utilizando el Pequen˜o  Teorema  de  Fermat.
 
-        ### LA RESOLUCION COMPLETA ESTA EN EL PDF SUBIDO AL MOODLE
+     ### LA RESOLUCION COMPLETA ESTA EN EL PDF SUBIDO AL MOODLE
 
 (a)	(1 point)  3181  mod 7.
 
