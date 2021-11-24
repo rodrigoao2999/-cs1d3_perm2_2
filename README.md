@@ -1,11 +1,12 @@
 # -cs1d3_perm2_2
+### LA RESOLUCION COMPLETA ESTA EN EL PDF SUBIDO AL MOODLE
 
 1. (6 points) Sea ax ≡ 1 (mod n), implementar un algoritmo para calcular x (el inverso multiplicativo de a, modulo n). El programa debe permitir ingresar el numero a y n, luego debe retorna el valor de x (si es que existe). Crear un repositorio en GitHub (con README).
     ### lab5abstracta.cpp
     
 2.	(6 points)  Resolver utilizando el Pequen˜o  Teorema  de  Fermat.
 
-     ### LA RESOLUCION COMPLETA ESTA EN EL PDF SUBIDO AL MOODLE
+ 
     ```
     (a)  (1 point)  3181  mod 7.
             3^3 ≡ 3 mod 7   
@@ -28,5 +29,8 @@
     ```
 
 3.	(3 points) Resolver x103 ≡ 4 (mod 11), para 0 ≤ x < 11.
-4.	(5 points)  Un googol  es igual a 10100, un nu´mero tan grande que supera el cantidad de ´atomos en el universo (≈ 1080). Ahora, un googolplex es igual a 10googol.  ¿Que d´ıa de la semana ser´ıa un googolplex de d´ıas a partir de ahora? (Hoy es Viernes).
+    ```
+    x ≡ 5 mod 11
+    ```
+5.	(5 points)  Un googol  es igual a 10100, un nu´mero tan grande que supera el cantidad de ´atomos en el universo (≈ 1080). Ahora, un googolplex es igual a 10googol.  ¿Que d´ıa de la semana ser´ıa un googolplex de d´ıas a partir de ahora? (Hoy es Viernes).
 
