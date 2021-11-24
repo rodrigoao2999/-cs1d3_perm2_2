@@ -7,8 +7,8 @@
 
      ### LA RESOLUCION COMPLETA ESTA EN EL PDF SUBIDO AL MOODLE
 
-    [^ (a)	(1 point)  3181  mod 7.
-            3^3 ≡ 3 mod 7
+    <!-- (a)	(1 point)  3181  mod 7.
+            3^3 ≡ 3 mod 7 -->    
     (b)	(1 point)  2245  mod 7.
             2^32 ≡ 4 mod 7
     (c) (1 point)  128129  mod 17.
