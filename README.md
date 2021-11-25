@@ -3,12 +3,9 @@
 
 1. (6 points) Sea ax ≡ 1 (mod n), implementar un algoritmo para calcular x (el inverso multiplicativo de a, modulo n). El programa debe permitir ingresar el numero a y n, luego debe retorna el valor de x (si es que existe). Crear un repositorio en GitHub (con README).
     ### lab5abstracta.cpp
-    > Funciones
-- Funcion de MCD  "**MCD**"
-  - como su nombre lo dice este nos ayuda con el maximo como un divisor tambien encontramos un bucle en el cual estas los cambios que tienen para hallar el mcd.
-> main
-
-- Se encuentra nuestro nuestros condicionales en este caso como el problema nos pide el X y si son coprimos este condicional nos ayuda.
+> Funciones
+- int MCD(int N1, int N2) 
+  - Con esta funcion hallamos el maximo comun divisor entre dos numeros.
 
 2.	(6 points)  Resolver utilizando el Pequen˜o  Teorema  de  Fermat.
 
